@@ -9,5 +9,6 @@ public class DbTest {
 
 	public void add() {
 		System.out.println(1 + 2);
+		System.out.println("yes");
 	}
 }
