@@ -10,7 +10,20 @@ public class Step {
 		System.out.println("Country: USA");
 		System.out.println("State: VA" );
 		System.out.println("City: Reston");
+
+		//added.. zipcode..
+		System.out.println("Zipcod:1234");
+		
+		//added continent
+		
+		System.out.println("Continent: North America");
+		System.out.println("Name");
+		
+	
+		 
+
 		//added zipcod from Mebrat
 		System.out.println("zipcod:1234");
+
 	}
 }
