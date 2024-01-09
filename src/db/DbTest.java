@@ -10,4 +10,9 @@ public class DbTest {
 	public void add() {
 		System.out.println(1 + 2);
 	}
+	
+	public void divide() {
+		System.out.println( 1 / 2);
+		System.out.println(10 / 2); // gio
+	}
 }
