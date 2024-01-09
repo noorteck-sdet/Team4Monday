@@ -18,11 +18,10 @@ public class DbTest {
 		System.out.println(10 / 2); // gio
 
 		System.out.println(100 / 5); // Monica
-
-		System.out.println(50 / 2);
-
 		System.out.println(50 / 2); // Yasmine
+	}
 
-
+	public void subtract() {
+		System.out.println(10 - 5); //Yasmine
 	}
 }
