@@ -5,6 +5,8 @@ public class DbTest {
 	public static void main(String[] args) {
 		DbTest obj = new DbTest();
 		obj.add();
+		
+		obj.divide();
 	}
 
 	public void add() {
