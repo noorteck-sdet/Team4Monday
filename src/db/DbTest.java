@@ -16,5 +16,8 @@ public class DbTest {
 	public void divide() {
 		System.out.println( 1 / 2);
 		System.out.println(10 / 2); // gio
+		
+		System.out.println(100 / 5); // Monica
+		
 	}
 }
