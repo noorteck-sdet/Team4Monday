@@ -25,6 +25,7 @@ public class DbTest {
 	public void subtract() {
 		System.out.println(10 - 5); //Yasmine
 		System.out.println(26-1);//Jeremy
+		System.out.println(70-12);//Mebrat
 	}
 	
 	public void multiply (int a, int b) {
