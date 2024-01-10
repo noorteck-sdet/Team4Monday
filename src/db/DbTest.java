@@ -11,6 +11,8 @@ public class DbTest {
 
 	public void add() {
 		System.out.println(1 + 2);
+		System.out.println(10+5);//Mebrat
+		System.out.println(30+3);//again Mebrat
 	}
 
 	public void divide() {
@@ -30,5 +32,6 @@ public class DbTest {
 	
 	public void multiply (int a, int b) {
 		System.out.println(a*b);// Ivan
+		// Monica commenting from Github
 	}
 }
