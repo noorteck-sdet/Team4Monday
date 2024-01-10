@@ -29,6 +29,7 @@ public class DbTest {
 		System.out.println(26-1);//Jeremy
 		System.out.println(70-12);//Mebrat
 	}
+		// test111
 	
 	public void multiply (int a, int b) {
 		System.out.println(a*b);// Ivan

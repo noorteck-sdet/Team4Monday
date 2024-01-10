@@ -20,14 +20,6 @@ public class Step {
 		System.out.println("Name");
 		
 	
-		 
-	}
-	//method Added by Mebrat...
-	public  boolean daysOfTheWeek(String isToday) {
-		boolean result=false;
-		if(isToday=="Monday"){
-			result=true;
-		}
-		return result;
+		
 	}
 }
