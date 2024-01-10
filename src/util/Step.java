@@ -20,13 +20,6 @@ public class Step {
 		System.out.println("Name");
 		
 	
-		 
-
-		//added zipcod from Mebrat
-		System.out.println("zipcod:1234");
 		
-		//Lana 
-		System.out.println("Lana");
-
 	}
 }
