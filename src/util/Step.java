@@ -24,6 +24,9 @@ public class Step {
 
 		//added zipcod from Mebrat
 		System.out.println("zipcod:1234");
+		
+		//Lana 
+		System.out.println("Lana");
 
 	}
 }
