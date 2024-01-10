@@ -21,9 +21,13 @@ public class Step {
 		
 	
 		 
-
-		//added zipcod from Mebrat
-		System.out.println("zipcod:1234");
-
+	}
+	//method Added by Mebrat...
+	public  boolean daysOfTheWeek(String isToday) {
+		boolean result=false;
+		if(isToday=="Monday"){
+			result=true;
+		}
+		return result;
 	}
 }
