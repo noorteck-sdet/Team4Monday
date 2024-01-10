@@ -19,6 +19,7 @@ public class DbTest {
 
 		System.out.println(100 / 5); // Monica
 		System.out.println(50 / 2); // Yasmine
+		System.out.println(20/2);// Mebrat
 	}
 
 	public void subtract() {
