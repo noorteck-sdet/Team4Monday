@@ -7,6 +7,8 @@ public class DbTest {
 		obj.add();
 
 		obj.divide();
+		
+		System.out.println("Code by Ivan");
 	}
 
 	public void add() {
