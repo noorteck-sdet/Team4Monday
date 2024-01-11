@@ -1,5 +1,8 @@
 package util;
 
+import java.util.ArrayList;
+import java.util.ListIterator;
+
 public class Step {
 
 	public void display(String str) {
@@ -18,16 +21,22 @@ public class Step {
 		
 		System.out.println("Continent: North America");
 		System.out.println("Name");
+	}
+		public static void main(String[] args) {
+		ArrayList<String> Name=new ArrayList<String>();
+		
+		Name.add("ahmed");
+		Name.add("test");
+		ListIterator<String>show=Name.listIterator();
+		
+		while( show.hasNext()) {
+			
+			System.out.println(show.next());
+			
+		}
+		
+		
+		}
 		
 	
-		 
-	}
-	//method Added by Mebrat...
-	public  boolean daysOfTheWeek(String isToday) {
-		boolean result=false;
-		if(isToday=="Monday"){
-			result=true;
-		}
-		return result;
-	}
 }
