@@ -53,4 +53,8 @@ public class DbTest {
 		System.out.println("Lana");
 
 	}
+	//practiceing the pull request
+	public void state() {
+		System.out.println("OH");
+	}
 }
