@@ -23,6 +23,22 @@ public class Step {
 		System.out.println("Name");
 	}
 
+		public static void main(String[] args) {
+		ArrayList<String> Name=new ArrayList<String>();
+		
+		Name.add("ahmed");
+		Name.add("test");
+		ListIterator<String>show=Name.listIterator();
+		
+		while( show.hasNext()) {
+			
+			System.out.println(show.next());
+			
+		}
+		
+		
+    }
+
 	// ahmed test to push
 	public static void main(String[] args) {
 		ArrayList<String> Name = new ArrayList<String>();
