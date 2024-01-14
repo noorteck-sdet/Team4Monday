@@ -51,8 +51,7 @@ public class DbTest {
 	}
 
 
-	public void multiply(int a, int b) {
-		System.out.println(a * b);// Ivan
+	
 
 
 	public void multiply(int a, int b) {
@@ -87,5 +86,4 @@ public class DbTest {
 	//MEbrat Saturday 1/13/ 7:37
 	//Test by MEbrat at 10:29pm
 
-}
 }
