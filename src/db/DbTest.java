@@ -88,7 +88,6 @@ public class DbTest {
 	//Test by MEbrat at 10:29pm
 
 
-	 stage
 	
 	//added 1/14/2024 Sinan
 	public void multiple() {
