@@ -89,4 +89,10 @@ public class DbTest {
 
 
 	 stage
+	
+	//added 1/14/2024 Sinan
+	public void multiple() {
+		
+		System.out.println(2 * 2);
+	}
 }
