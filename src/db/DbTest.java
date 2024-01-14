@@ -4,6 +4,8 @@ import java.util.LinkedHashSet;
 
 public class DbTest {
 
+	static double pi = 3.14; //Ivan 1/13/2024 - pi number
+
 	public static void main(String[] args) {
 		DbTest obj = new DbTest();
 		obj.add();
@@ -42,9 +44,14 @@ public class DbTest {
 
 	public void subtract() {
 		System.out.println(10 - 5); // Yasmine
+
 		System.out.println(26 - 1);// Jeremy
 		System.out.println(70 - 12);// Mebrat
+ 
 	}
+
+
+	
 
 
 	public void multiply(int a, int b) {
@@ -57,12 +64,29 @@ public class DbTest {
 		System.out.println(56 * 8); // Monica
 		System.out.println("Lana");
 
+
 	}
+
+
+	public static int sircleArea(int radius) { // Ivan 1/13/2024 - sircleArea()
+
+		double area = pi * radius * radius;
+
+		int a = (int) area;
+
+		return a;
+		
+	}
+
+
 	//practiceing the pull request
 	public void state() {
 		System.out.println("OH");
 	}
 	//MEbrat Saturday 1/13/ 7:37
+	// this is Ezra
 	//Test by MEbrat at 10:29pm
-	
+
+
+	 stage
 }
