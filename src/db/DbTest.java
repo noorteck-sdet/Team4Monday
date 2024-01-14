@@ -38,6 +38,7 @@ public class DbTest {
 		int a = (int) area;
 
 		return a;
+		
 	}
 
 }
