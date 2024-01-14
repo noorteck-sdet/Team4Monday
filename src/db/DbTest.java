@@ -9,6 +9,7 @@ public class DbTest {
 		obj.add();
 
 		obj.divide();
+
          //made by Ahmed 
 		LinkedHashSet<String> teams = new LinkedHashSet<String>();
 
@@ -17,6 +18,10 @@ public class DbTest {
 		teams.add("Team3");
 		teams.add("Team4");
 		System.out.println(teams);
+
+
+		
+		System.out.println("Code by Ivan");
 
 	}
 
@@ -57,6 +62,7 @@ public class DbTest {
 	public void state() {
 		System.out.println("OH");
 	}
+	//MEbrat Saturday 1/13/ 7:37
 	//Test by MEbrat at 10:29pm
 	
 }
