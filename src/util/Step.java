@@ -22,22 +22,23 @@ public class Step {
 		System.out.println("Continent: North America");
 		System.out.println("Name");
 	}
-
-		public static void main(String[] args) {
-		ArrayList<String> Name=new ArrayList<String>();
 		
-		Name.add("ahmed");
-		Name.add("test");
-		ListIterator<String>show=Name.listIterator();
+		//put this main method as a comment because under it another main method - Sinan
+		//public static void main(String[] args) {
+		//ArrayList<String> Name=new ArrayList<String>();
 		
-		while( show.hasNext()) {
+		//Name.add("ahmed");
+		//Name.add("test");
+		//ListIterator<String>show=Name.listIterator();
+		
+		//while( show.hasNext()) {
 			
-			System.out.println(show.next());
+			//System.out.println(show.next());
 			
-		}
+		//}
 		
 		
-    }
+    //}
 
 	// ahmed test to push
 	public static void main(String[] args) {
