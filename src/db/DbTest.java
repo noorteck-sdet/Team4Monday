@@ -91,7 +91,11 @@ public class DbTest {
 	// this is Ezra
 	//Test by MEbrat at 10:29pm
 
+	//added 1/14/2024 Sinan
+		public void multiple() {
 
+			System.out.println(2 * 2);
+		}
 	
 	static public void stateList(String ...arr) {// practicing git push from pc 23.01.2024 - StateList()
 		for(String s: arr) {
