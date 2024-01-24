@@ -24,6 +24,10 @@ public class DbTest {
 
 		
 		System.out.println("Code by Ivan");
+		
+		
+		stateList("VA","NY");//test 1
+		stateList("VA","NY");//test 2
 
 	}
 
@@ -89,9 +93,9 @@ public class DbTest {
 
 
 	
-	//added 1/14/2024 Sinan
-	public void multiple() {
-		
-		System.out.println(2 * 2);
+	static public void stateList(String ...arr) {// practicing git push from pc 23.01.2024 - StateList()
+		for(String s: arr) {
+			System.out.println(s);
+		}
 	}
 }
