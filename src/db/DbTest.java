@@ -103,7 +103,9 @@ public class DbTest {
 			System.out.println(s);
 		}
 
-		//changes from the github 
-	static final int WEIGHT = 100;
+
 	}
+	
+	//changes from the github 
+static final int WEIGHT = 100;
 }
