@@ -97,9 +97,12 @@ public class DbTest {
 			System.out.println(2 * 2);
 		}
 	
-	static public void stateList(String ...arr) {// practicing git push from pc 23.01.2024 - StateList()
+	public static void stateList(String ...arr) {// practicing git push from pc 23.01.2024 - StateList()
 		for(String s: arr) {
 			System.out.println(s);
 		}
+
+		//changes from the github 
+	static final int WEIGHT = 100;
 	}
 }
