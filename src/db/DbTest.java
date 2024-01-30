@@ -97,4 +97,9 @@ public class DbTest {
 
 	//practice pull
 	//practice pull without stashing to see a conflict
+
+	public void printout2 (){
+		System.out.println("HI");
+	}
+	
 }
