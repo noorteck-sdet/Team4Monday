@@ -96,4 +96,5 @@ public class DbTest {
 	}
 
 	//practice pull
+	//practice pull without stashing to see a conflict
 }
